@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Thaisa Vitória 🇧🇷
+# 👋 Oii, eu sou a Thaisa Vitória 🇧🇷
 
 <img src="https://img.shields.io/badge/Pronouns-she%2Fher-purple?style=flat-square" alt="Pronouns">
 
