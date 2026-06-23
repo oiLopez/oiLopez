@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Pronouns-she%2Fher-purple?style=flat-square" alt="Pronouns">
 
-> Estudante de Desenvolvimento Web Multiplataforma pela FATEC MAUÁ
+> Estudante de Desenvolvimento de Software Multiplataforma pela FATEC MAUÁ
 
 ---
 
